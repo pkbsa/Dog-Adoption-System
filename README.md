@@ -97,7 +97,7 @@ Regarding some system characteristics, they want this system as a website that i
 | **Secondary Actor** |  Police Criminal Record Service, Blacklist NGO Database Service  |
 | **Precondition** | Thai Citizen must pass the Adopting Dog Process |
 | **Trigger** | Thai Citizen send the adoption request to the system |
-| **Sceneario** | <ol><li>Thai Citizen send the dog adoption ticket to the system</li><li>System check the adopter criminal record with the Police Criminal Record Service using adopter Citizen ID.</li><li>System check the adopter blacklist status with Blacklist NGO Database Service using adopter Citizen ID.</li><li>The system send the Adopter criminal record, blacklist status, short essay, and general information to the Organization staff</li><li>Staff will send back the approval status to the system</li><li>system will go the the Selecting Adopter process</li></ol>|
+| **Sceneario** | <ol><li>Thai Citizen send the dog adoption ticket to the system</li><li>System check the adopter criminal record with the Police Criminal Record Service using adopter Citizen ID.</li><li>System check the adopter blacklist status with Blacklist NGO Database Service using adopter Citizen ID.</li><li>The system send the Adopter criminal record, blacklist status, short essay, and general information to the Organization staff</li><li>Staff will send back the approval status to the system</li><li>system will go to the Selecting Adopter process</li></ol>|
 | **Exceptions** | <ol><li>Exception 1. If the Police Criminal Record Service is down the system will be rolled back.</li><li>Exception 2. If the Blacklist NGO Database Service is down the system will be rolled back. </li><li>Exception 3. If the adopter Citizen ID is incorrect or provided with false information, The system will prompt the adopter to send a new ticket</li></ol> |
 | **Post-condition** | The adopter will be added to the adopter list which will be selected to find the most suitable adopter|
 
@@ -117,3 +117,7 @@ Regarding some system characteristics, they want this system as a website that i
 
 <h2>Data flow diagram Level 0</h2>
 <img src="./img/DFD LV0.png"></img>
+
+<h2>Video Presentation</h2>
+<h4>(https://www.youtube.com/watch?v=BuyaBKUgc8g)</h4>
+<video src='https://www.youtube.com/watch?v=BuyaBKUgc8g' width=180/>
