@@ -35,7 +35,7 @@ Regarding some system characteristics, they want this system as a website that i
   <li>The website must be easy to use for any kind of user.</li>
   <li>The website must have a lot of accessibility.</li>
   <li>The design should be like the same style as the theme.</li>
-  <li>The adopter can upload the picture of the dog on the website.</li>
+  <li>The Organization can upload the picture of the dog on the website.</li>
   <li>High resolution picture of the dog on the website.</li>
   <li>The dog’s special list (Fake dead, rolling around) will appear on the website.</li>
   <li>The adopter can see the breed of the dog through a website.</li>
