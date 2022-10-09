@@ -13,15 +13,15 @@ Regarding some system characteristics, they want this system as a website that i
 
 <h2>Functional requirements</h2>
 <ol>
-  <li>They want a website</li>
+  <li>The Organizations want a website</li>
   <li>The website must have a dog management system.</li>
   <li>The website must have a dog adoption page.</li>
   <li>The website should open 24/7.</li>
   <li>The website must handle like a thousand transactions acrossing a day.</li>
-  <li>They want the theme of the organization website to be blue and white.</li>
+  <li>The Organizations want the theme of the organization website to be blue and white.</li>
   <li>The system must ensure no adoption list on the dog that is already adopted.</li>
   <li>The adopter must authenticate their background.</li>
-  <li>They want us to prepare the system to handle the security aspect.</li>
+  <li>The Organizations want us to prepare the system to handle the security aspect.</li>
   <li>The website must have every treatment record including recording the practicing program.</li>
   <li>The system must handle a delivery option on the website.</li>
   <li>The system must have a sponsor registration process.</li>
